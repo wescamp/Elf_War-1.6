@@ -1,0 +1,13 @@
+border_size=1
+usage=map
+
+Gs^Fp      ,Gs^Fp      , Gg       , Gs^Fp       , Gs          , Gs^Fp       , Hh          , Gg          , Hh          , Gg          , Gg          
+Gs^Fp      ,Gg^Fet      , Gg^Ve       , Gs^Fp       , Gs          , Gs^Fp       , Hh          , Gg          , Hh          , Gg          , Gg          
+Gs^Fp       ,Gs^Fp       , Gg          , Gs^Fp       , Gg          , Gg^Fet      , Gg          , Gs^Fp       , Cv          , Ggf         , Ggf         
+Ggf         ,Ggf         , Gs          , Gg          , Gs^Fp       , Gg^Ve       , Gs^Fp       , Gs          , Ww          , Ww          , Ww          
+Gs^Fp     ,1 Gs^Fp     , Rr          , Gg^Fet      , Rr          , Rr          , Rr          , Rr          , Ww^Bw\      , Gg^Fet      , Gs^Fp      
+Rr          ,Rr          , Ggf         , Rr          , Gs          , Cv          , Ww          , Ww          , Ggf         , 2 Rr        , Rr        
+Gs          ,Gs          , Gg          , Gg^Fet      , Gs^Fp       , Ggf         , Wwf         , Gs^Fp       , Gs          , Gg          , Gg          
+Gs^Fp       ,Gs^Fp       , Gg^Ve       , Gs          , Gg^Fet      , Gg          , Ww          , Gg          , Gg^Ve       , Gs^Fp       , Gs^Fp       
+Gs^Fp      ,Gg^Fet      , Cv          , Gs^Fp       , Ww          , Ww          , Hh          , Ggf         , Gs          , Gg^Fet      , Gs^Fp      
+Gs^Fp      ,Gs^Fp      , Cv          , Gs^Fp       , Ww          , Ww          , Hh          , Ggf         , Gs          , Gs^Fp      , Gs^Fp      
